@@ -1,0 +1,6 @@
+{
+  "name": "Two-Player Strategy Duel",
+  "description": "A real-time two-player tactical strategy game with local Wi-Fi matchmaking, room codes, QR connectivity, and retro martial arts combat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
